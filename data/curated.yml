@@ -32,6 +32,7 @@ categories:
       - repo: jeffreyren1/dsh-custom-js
       - repo: Ephemeral-AI-Lab/mayfly
       - repo: Ytibu/dsh-agents-md
+      - repo: chromoany/dsh-notify-me
 
   - name: Models & Providers
     slug: model
